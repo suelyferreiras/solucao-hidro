@@ -56,7 +56,7 @@
     "witsec-mailform": false,
     "witsec-jquery": false,
     "publishChangesOnly": false,
-    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-VZ9WS9Z74V\"></script>\n<!-- Global site tag (gtag.js) - Google Ads: 10834804456 -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=AW-10834804456\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'AW-10834804456');\n</script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-VZ9WS9Z74V');\n</script>\n<script>\n  gtag('config', 'AW-10834804456/YDtoCN-dhZADEOj9t64o', {\n    'phone_conversion_number': '1239377599'\n  });\n</script>\n",
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-VZ9WS9Z74V\"></script><!-- Global site tag (gtag.js) - Google Ads: 10834804456 -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=AW-10834804456\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n gtag('config', 'G-VZ9WS9Z74V');\n  gtag('config', 'AW-10834804456');\n</script>\n<script>\n  gtag('config', 'AW-10834804456/YDtoCN-dhZADEOj9t64o', {\n    'phone_conversion_number': '1239377599'\n  });\n</script>\n",
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n"
   },
   "pages": {
